@@ -1,0 +1,6 @@
+download the Horse-or-Human dataset from:
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/
+horse-or-human.zip
+
+The model was trained on the above mentioned dataset with an accuracy of 99.9%
