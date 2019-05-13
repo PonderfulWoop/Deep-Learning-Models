@@ -2,4 +2,10 @@ download the Horse-or-Human dataset from:
 
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
 
-The model was trained on the above mentioned dataset with an accuracy of 99.9%
+The model was trained on the above mentioned dataset with an accuracy of 99.9% on the training data.
+
+download the validation dataset from:
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip
+
+
