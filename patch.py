@@ -10,4 +10,4 @@ def split_img(img_loc, width, height):
             cv2.imwrite(f"patches/img{r}_{c}.png", img[r:r+width, c:c+height, :])
 
 
-split_img("crowd.jpg", 64, 64)
+split_img("crowd.jpg", 64, 64) # splits the image into 64x64 patches. For any other size, specify here.
